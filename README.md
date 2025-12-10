@@ -25,5 +25,5 @@ este programa permite que o usuario cadastre seus gastos mensais, visualize um r
 ## tecnologias utilizadas
 - Go (Golang)
 
-## nota
+## sobre
 este projeto nasceu em python no pydroid, quando ainda estava no comecinho da minha jornada. e entao decidi remasterizar este programa usando Go
